@@ -1,0 +1,1 @@
+To play the game, go to the room_main.py file and click on the RUN button.
